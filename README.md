@@ -1,6 +1,6 @@
 # Project : Template
 
-## Check The Live Website ➡️ [Live Website](https://skycooper.github.io/TourPlaces/)
+## Check The Live Website ➡️ [Live Website](https://coopertourplaces.netlify.app/)
 
 ## Visualization of the Website
 
