@@ -1,0 +1,30 @@
+ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  flex-wrap: wrap;
+}
+
+li{
+  list-style-type: none;
+  font-size: 1rem;
+  text-transform: uppercase;
+  padding: 1rem;
+  display: inline;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+li:hover{
+  background-color:brown;
+  color: black;
+  cursor: pointer;
+}
+a:hover{
+  color: black;
+  cursor: pointer;
+}

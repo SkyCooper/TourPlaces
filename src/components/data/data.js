@@ -1,4 +1,4 @@
-export const data = [
+const data = [
   {
     id: 1,
     title: "New York",
@@ -78,7 +78,7 @@ export const data = [
   },
   {
     id: 11,
-    title: "Arashiyama Bamboo Grove",
+    title: "Arashi Bamboo",
     desc:
       "Bamboo Forest, or Arashiyama Bamboo Grove or Sagano Bamboo Forest, is a natural forest of bamboo in Arashiyama, Kyoto, Japan. The forest consists mostly of Moso Bamboo (Phyllostachys edulis) and consists of several pathways for tourists and visitors. The Ministry of the Environment considers it a part of the soundscape of Japan.",
     image: "https://wallpaperaccess.com/full/534182.jpg",
@@ -92,3 +92,5 @@ export const data = [
       "https://images.unsplash.com/photo-1444076784383-69ff7bae1b0a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxvd2VyJTIwYW50ZWxvcGUlMjBjYW55b258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
   },
 ];
+
+export default data
