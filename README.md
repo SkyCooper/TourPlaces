@@ -1,10 +1,10 @@
 # Project : Template
 
-## Check The Live Website ➡️ [Live Website](https://skycooper.github.io/imageGallery/)
+## Check The Live Website ➡️ [Live Website](https://skycooper.github.io/TourPlaces/)
 
 ## Visualization of the Website
 
-![Form](./gallery.gif)
+![Form](./places.gif)
 
 ## Description
 
