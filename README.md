@@ -1,4 +1,4 @@
-# Project : Template
+# Project : Popular Tour Places
 
 ## Check The Live Website ➡️ [Live Website](https://coopertourplaces.netlify.app/)
 
