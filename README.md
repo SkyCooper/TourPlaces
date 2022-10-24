@@ -25,22 +25,21 @@ At the end of the project, you will be able to;
 ## Project Skeleton
 
 ```
-Image Gellery Project(folder)
+Tour Places Project(folder)
 |
 |----README.md
 ├── public
 │     └── index.html
 ├── src
 │    ├── components
-│    │       ├── Picture.jsx
-│    ├── pages
-│    │       ├── Homepage.jsx
-│    ├── helper
-│    │       └── data.js
-│    ├── styles
-│    │       ├── style.css
+│    │       ├── cards
+│    │       ├── data
+│    │       ├── header
+│    │       ├── navbar
 │    ├── App.js
+│    ├── App.css
 │    ├── index.js
+│    ├── index.css
 └── package.json
 ```
 
